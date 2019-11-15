@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E70664D23752924008F7F3D /* DFChuW4.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 4E70664C23752924008F7F3D /* DFChuW4.TTF */; };
 		4EC4C14D2371989A0038BB29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC4C14C2371989A0038BB29 /* AppDelegate.swift */; };
 		4EC4C14F2371989A0038BB29 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC4C14E2371989A0038BB29 /* SceneDelegate.swift */; };
 		4EC4C1512371989A0038BB29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EC4C1502371989A0038BB29 /* ViewController.swift */; };
@@ -16,7 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4EC4C1492371989A0038BB29 /* PanClass#2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PanClass#2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E70664C23752924008F7F3D /* DFChuW4.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = DFChuW4.TTF; sourceTree = "<group>"; };
+		4EC4C1492371989A0038BB29 /* Storyboary_Tarot-ebook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Storyboary_Tarot-ebook.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EC4C14C2371989A0038BB29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4EC4C14E2371989A0038BB29 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4EC4C1502371989A0038BB29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +50,7 @@
 		4EC4C14A2371989A0038BB29 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4EC4C1492371989A0038BB29 /* PanClass#2.app */,
+				4EC4C1492371989A0038BB29 /* Storyboary_Tarot-ebook.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,6 +63,7 @@
 				4EC4C1502371989A0038BB29 /* ViewController.swift */,
 				4EC4C1522371989A0038BB29 /* Main.storyboard */,
 				4EC4C1552371989D0038BB29 /* Assets.xcassets */,
+				4E70664C23752924008F7F3D /* DFChuW4.TTF */,
 				4EC4C1572371989D0038BB29 /* LaunchScreen.storyboard */,
 				4EC4C15A2371989D0038BB29 /* Info.plist */,
 			);
@@ -70,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4EC4C1482371989A0038BB29 /* PanClass#2 */ = {
+		4EC4C1482371989A0038BB29 /* Storyboary_Tarot-ebook */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4EC4C15D2371989D0038BB29 /* Build configuration list for PBXNativeTarget "PanClass#2" */;
+			buildConfigurationList = 4EC4C15D2371989D0038BB29 /* Build configuration list for PBXNativeTarget "Storyboary_Tarot-ebook" */;
 			buildPhases = (
 				4EC4C1452371989A0038BB29 /* Sources */,
 				4EC4C1462371989A0038BB29 /* Frameworks */,
@@ -82,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "PanClass#2";
+			name = "Storyboary_Tarot-ebook";
 			productName = "PanClass#2";
-			productReference = 4EC4C1492371989A0038BB29 /* PanClass#2.app */;
+			productReference = 4EC4C1492371989A0038BB29 /* Storyboary_Tarot-ebook.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4EC4C144237198990038BB29 /* Build configuration list for PBXProject "PanClass#2" */;
+			buildConfigurationList = 4EC4C144237198990038BB29 /* Build configuration list for PBXProject "Storyboary_Tarot-ebook" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4EC4C1482371989A0038BB29 /* PanClass#2 */,
+				4EC4C1482371989A0038BB29 /* Storyboary_Tarot-ebook */,
 			);
 		};
 /* End PBXProject section */
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E70664D23752924008F7F3D /* DFChuW4.TTF in Resources */,
 				4EC4C1592371989D0038BB29 /* LaunchScreen.storyboard in Resources */,
 				4EC4C1562371989D0038BB29 /* Assets.xcassets in Resources */,
 				4EC4C1542371989A0038BB29 /* Main.storyboard in Resources */,
@@ -319,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4EC4C144237198990038BB29 /* Build configuration list for PBXProject "PanClass#2" */ = {
+		4EC4C144237198990038BB29 /* Build configuration list for PBXProject "Storyboary_Tarot-ebook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4EC4C15B2371989D0038BB29 /* Debug */,
@@ -328,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4EC4C15D2371989D0038BB29 /* Build configuration list for PBXNativeTarget "PanClass#2" */ = {
+		4EC4C15D2371989D0038BB29 /* Build configuration list for PBXNativeTarget "Storyboary_Tarot-ebook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4EC4C15E2371989D0038BB29 /* Debug */,
